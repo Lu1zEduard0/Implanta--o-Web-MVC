@@ -1,0 +1,26 @@
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\appsettings.Development.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\appsettings.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.staticwebassets.runtime.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.exe
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.deps.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.runtimeconfig.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.dll
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\bin\Debug\net6.0\Implantação Web MVC.pdb
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.csproj.AssemblyReference.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.GeneratedMSBuildEditorConfig.editorconfig
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.AssemblyInfoInputs.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.AssemblyInfo.cs
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.csproj.CoreCompileInputs.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.MvcApplicationPartsAssemblyInfo.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.RazorAssemblyInfo.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.RazorAssemblyInfo.cs
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\staticwebassets.build.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\staticwebassets.development.json
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\scopedcss\bundle\Implantação Web MVC.styles.css
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\scopedcss\projectbundle\Implantação Web MVC.bundle.scp.css
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.dll
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\refint\Implantação Web MVC.dll
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.pdb
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\Implantação Web MVC.genruntimeconfig.cache
+L:\Codigo\SENAI PROJETO\Implantação Web MVC\obj\Debug\net6.0\ref\Implantação Web MVC.dll
